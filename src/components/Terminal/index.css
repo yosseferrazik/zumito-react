@@ -1,0 +1,13 @@
+.term {
+  border: 1px solid #333;
+  background-color: black;
+  font-family: monospace;
+  padding: 5px;
+  border-radius:10px;
+}
+#terminal {
+  padding:20px;
+  text-align:left;
+  height: 200px;
+  overflow-y: scroll;
+}
